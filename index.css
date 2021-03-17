@@ -1,0 +1,36 @@
+.mainDiv{
+    text-align: center;
+    background-color: rgb(121, 109, 109);
+    margin-top:50px;
+    height: 150px;
+    width: 300px;
+    margin:250px 0px 0px 615px;
+    padding-bottom:30px;
+    padding-top:2px;
+    border:2px solid green;
+    border-radius: 20px;
+}
+
+body{
+    background-image: url('Stopwatch by DarthEddie on DeviantArt.jpg');
+}
+
+h3{
+    font-style:italic;
+    margin-left:610px;
+}
+
+#start{
+    border: 2px solid rgb(34, 163, 131);
+    border-radius:5px;
+}
+
+#pause{
+    border: 2px solid rgb(34, 163, 131);
+    border-radius:5px;
+}
+
+#reset{
+    border: 2px solid rgb(34, 163, 131);
+    border-radius:5px;
+}
